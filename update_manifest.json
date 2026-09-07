@@ -1,0 +1,11 @@
+{
+  "version": "1.0.7",
+  "min_version": "1.0.7",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.7/sein-base-1.0.7.jar",
+  "changelog": "Yeni guncelleme.",
+  "mandatory": true,
+  "shutdown": {
+    "active": false,
+    "reason": ""
+  }
+}

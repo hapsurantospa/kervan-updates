@@ -2,7 +2,7 @@
   "version": "1.0.8",
   "min_version": "1.0.8",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.8/sein-base-1.0.8.jar",
-  "changelog": "Yeni guncelleme.",
+  "changelog": "Yeni sistem guncellemesi devrede.",
   "mandatory": true,
   "shutdown": {
     "active": false,

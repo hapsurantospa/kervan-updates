@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "min_version": "1.0.11",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.11/sein-base-1.0.11.jar",
-  "changelog": "Otomatik oneriler ve chatbox satir kaydirma guncellemesi.",
+  "version": "1.0.12",
+  "min_version": "1.0.12",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.12/sein-base-1.0.12.jar",
+  "changelog": "Yeni guncelleme.",
   "mandatory": true,
   "shutdown": {
     "active": false,

@@ -9,9 +9,9 @@
     "reason": ""
   },
   "protocol": {
-    "active": true,
+    "active": false,
     "version": "1.0.17",
     "countdown": 20,
-    "reason": "Sunucu 20 saniye icersinde kapatilacak, guncelleme bitiminde Discord uzerinden duyuru gecilecektir."
+    "reason": ""
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0.16",
   "min_version": "1.0.16",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.16/sein-base-1.0.16.jar",
-  "changelog": "v1.0.16: Ilk mesaj drop onleme (warmup), Sohbet Hep Acik ayari, Sadece T'de Opaklik ayari, 9-slice Photoshop Glassmorphism idle panel stili ve Chatbox kaydirma cubugu gradyani duzeltildi.",
+  "changelog": "v1.0.16: Performans optimizasyonu ve yeni sohbet ayarlari.",
   "mandatory": true,
   "shutdown": {
     "active": false,

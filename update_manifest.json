@@ -1,11 +1,17 @@
 {
-  "version": "1.0.16",
-  "min_version": "1.0.16",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.16/sein-base-1.0.16.jar",
-  "changelog": "v1.0.16: Performans optimizasyonu ve yeni sohbet ayarlari.",
+  "version": "1.0.17",
+  "min_version": "1.0.17",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.17/sein-base-1.0.17.jar",
+  "changelog": "v1.0.17: Sunucu 20s geri sayim protokolu ve anlik istemci guncelleme ekrani duzeltmesi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
+    "reason": ""
+  },
+  "protocol": {
+    "active": false,
+    "countdown": 20,
+    "version": "1.0.17",
     "reason": ""
   }
 }

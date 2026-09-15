@@ -1,8 +1,8 @@
 {
-  "version": "1.0.17",
-  "min_version": "1.0.17",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.17/sein-base-1.0.17.jar",
-  "changelog": "v1.0.17: Sunucu 20s geri sayim protokolu ve anlik istemci guncelleme ekrani duzeltmesi.",
+  "version": "1.0.18",
+  "min_version": "1.0.18",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.18/sein-base-1.0.18.jar",
+  "changelog": "Sein-Base v1.0.18: me/do format butonlari eklendi, komutlarda toolbar kisitlamasi, /me ve /do font/gradint duzeltmesi, tum komutlar Ingilizceye uyarlandi, /uicolor eklendi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -10,8 +10,8 @@
   },
   "protocol": {
     "active": false,
-    "version": "1.0.17",
     "countdown": 20,
+    "version": "1.0.18",
     "reason": ""
   }
 }

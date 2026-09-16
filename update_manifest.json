@@ -2,7 +2,7 @@
   "version": "1.0.20",
   "min_version": "1.0.20",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.20/sein-base-1.0.20.jar",
-  "changelog": "Sein-Base v1.0.20: /me font duzeltmesi, chat drop optimizasyonu, slash action kilitleme, /perms gelismis canvas, /broadcast sistemi ve sifir-gecikme guncelleme motoru.",
+  "changelog": "Sein-Base v1.0.20 Otomatik Guncelleme",
   "mandatory": true,
   "shutdown": {
     "active": false,

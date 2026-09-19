@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
-  "min_version": "1.0.22",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.22/sein-base-1.0.22.jar",
-  "changelog": "Ozel yurume ve durus animasyonlari entegre edildi.",
+  "version": "1.0.23",
+  "min_version": "1.0.23",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.23/sein-base-1.0.23.jar",
+  "changelog": "Varsayilan animasyon yapisina geri donuldu.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.0.22",
+    "version": "1.0.23",
     "reason": ""
   }
 }

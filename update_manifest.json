@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "min_version": "1.0.23",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.23/sein-base-1.0.23.jar",
+  "version": "1.0.24",
+  "min_version": "1.0.24",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.24/sein-base-1.0.24.jar",
   "changelog": "Default Minecraft unverified chat toast warning suppressed. Format toolbar enabled for /broadcast and /bc highlighted text. Freeform character-level selection canvas and live WYSIWYG editor added to /perms Tasarim tab.",
   "mandatory": true,
   "shutdown": {
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.0.23",
+    "version": "1.0.24",
     "reason": ""
   }
 }

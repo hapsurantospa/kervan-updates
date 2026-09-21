@@ -2,7 +2,7 @@
   "version": "1.0.24",
   "min_version": "1.0.24",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.24/sein-base-1.0.24.jar",
-  "changelog": "Default Minecraft unverified chat toast warning suppressed. Format toolbar enabled for /broadcast and /bc highlighted text. Freeform character-level selection canvas and live WYSIWYG editor added to /perms Tasarim tab.",
+  "changelog": "Fresh Animations (FA+ Player) tam prosedurel animasyon motoru entegre edildi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

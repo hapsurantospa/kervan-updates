@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
-  "min_version": "1.0.24",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.24/sein-base-1.0.24.jar",
-  "changelog": "Fresh Animations (FA+ Player) tam prosedurel animasyon motoru entegre edildi.",
+  "version": "1.0.25",
+  "min_version": "1.0.25",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.0.25/sein-base-1.0.25.jar",
+  "changelog": "Fresh Animations tam prosedurel animasyon motoru entegrasyonu.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.0.24",
+    "version": "1.0.25",
     "reason": ""
   }
 }

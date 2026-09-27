@@ -2,7 +2,7 @@
   "version": "1.1.5",
   "min_version": "1.1.5",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.5/sein-base-1.1.5.jar",
-  "changelog": "Enhanced Disco Elysium Character Creation UI with embossed bevel buttons, Turkish typography, frameless green HUD, hover description box, and molten amber gradients",
+  "changelog": "Kervan Roleplay istemci güncellemesi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

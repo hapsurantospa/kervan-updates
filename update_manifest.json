@@ -2,7 +2,7 @@
   "version": "1.1.0",
   "min_version": "1.1.0",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.0/sein-base-1.1.0.jar",
-  "changelog": "Disco Elysium tarzi Karakter Nitelik Olusturma UI sistemi eklendi (/charactercreate). 64x Dungeons arayuzu, hiyerarsik nitelik acilisi ve smooth lerp animasyonlari.",
+  "changelog": "Karakter Nitelik Olusturma UI Sistemi (v1.1.0)",
   "mandatory": true,
   "shutdown": {
     "active": false,

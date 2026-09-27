@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "min_version": "1.1.8",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.8/sein-base-1.1.8.jar",
-  "changelog": "Kervan Roleplay istemci güncellemesi.",
+  "version": "1.1.9",
+  "min_version": "1.1.9",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.9/sein-base-1.1.9.jar",
+  "changelog": "Karakter oluşturma 2. aşama (biyografi formu, kıyafet sıcaklığı, .png skin yükleyici ve 3D önizleme) eklendi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.1.8",
+    "version": "1.1.9",
     "reason": ""
   }
 }

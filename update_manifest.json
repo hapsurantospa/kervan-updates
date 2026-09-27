@@ -2,7 +2,7 @@
   "version": "1.1.2",
   "min_version": "1.1.2",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.2/sein-base-1.1.2.jar",
-  "changelog": "Arka plan blur sorunu düzeltildi ve 1.21.1 GUI post-processing optimizasyonu yapıldı.",
+  "changelog": "Kervan Roleplay istemci güncellemesi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

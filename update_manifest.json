@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "min_version": "1.1.5",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.5/sein-base-1.1.5.jar",
-  "changelog": "Kervan Roleplay istemci güncellemesi.",
+  "version": "1.1.6",
+  "min_version": "1.1.6",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.1.6/sein-base-1.1.6.jar",
+  "changelog": "Character creation UI update with SmallCaps typography, floating cursor tooltip, vertical bar pips, single remaining points counter, and chatbox grey button theme",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.1.5",
+    "version": "1.1.6",
     "reason": ""
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.2.0",
   "min_version": "1.2.0",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.0/sein-base-1.2.0.jar",
-  "changelog": "TinyFileDialogs yerel skin dosya seçici, 3D model sürükleme rotasyonu ve chatbox tarzı buton/girdi kutusu tasarım entegrasyonu.",
+  "changelog": "Kervan Roleplay istemci güncellemesi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

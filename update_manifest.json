@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "min_version": "1.2.3",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.3/sein-base-1.2.3.jar",
-  "changelog": "3D onizleme yonu duzeltildi, form kaydirilabilir yapildi ve oyun ici skin senkronizasyonu eklendi.",
+  "version": "1.2.4",
+  "min_version": "1.2.4",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.4/sein-base-1.2.4.jar",
+  "changelog": "v1.2.4: Fixed text input field focus routing and typing in Stage 2 Character Details form, and corrected vertical pitch rotation inversion in 3D preview model.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.3",
+    "version": "1.2.4",
     "reason": ""
   }
 }

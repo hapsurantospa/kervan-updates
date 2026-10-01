@@ -2,7 +2,7 @@
   "version": "1.2.3",
   "min_version": "1.2.3",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.3/sein-base-1.2.3.jar",
-  "changelog": "v1.2.3: Upright 3D preview model, forward-facing head alignment, smooth scrollable Stage 2 character details form, and persistent multiplayer skin synchronization.",
+  "changelog": "3D onizleme yonu duzeltildi, form kaydirilabilir yapildi ve oyun ici skin senkronizasyonu eklendi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

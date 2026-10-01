@@ -2,7 +2,7 @@
   "version": "1.2.4",
   "min_version": "1.2.4",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.4/sein-base-1.2.4.jar",
-  "changelog": "v1.2.4: Fixed text input field focus routing and typing in Stage 2 Character Details form, and corrected vertical pitch rotation inversion in 3D preview model.",
+  "changelog": "Yazi yazma ve dikey dondurme yonu duzeltildi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

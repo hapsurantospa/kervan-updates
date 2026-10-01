@@ -2,7 +2,7 @@
   "version": "1.2.1",
   "min_version": "1.2.1",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.1/sein-base-1.2.1.jar",
-  "changelog": "Sunucu class loader izolasyonu ve hata ayiklama koprusu entegrasyonu.",
+  "changelog": "Sunucu class loader izolasyonu ve dinamik port ayirma.",
   "mandatory": true,
   "shutdown": {
     "active": false,

@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "min_version": "1.2.4",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.4/sein-base-1.2.4.jar",
-  "changelog": "Yazi yazma ve dikey dondurme yonu duzeltildi.",
+  "version": "1.2.5",
+  "min_version": "1.2.5",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.5/sein-base-1.2.5.jar",
+  "changelog": "Tarkov/Tetris tarzı özel ızgara envanter sistemi, sırt çantası/yelek/kıyafet cepleri, sandık/yer panelleri, ağırlık mekaniği, /giveitem komutu ve TAB tuş ataması.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.4",
+    "version": "1.2.5",
     "reason": ""
   }
 }

@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
-  "min_version": "1.2.5",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.5/sein-base-1.2.5.jar",
-  "changelog": "OpenGL thread ve istemci açılış crash düzeltmesi ile Tarkov Envanter Sistemi.",
+  "version": "1.2.6",
+  "min_version": "1.2.6",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.6/sein-base-1.2.6.jar",
+  "changelog": "Tarkov Genisletilmis Envanter Sistemi: 3D Karakter Onizlemesi, Tum Konteynerler Ekranda, Canta/Yelek Takma Yuvalari, R Tusu ile Dondurme, Hover Tooltip ve Yere Atilan Esya Hologramlari.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.5",
+    "version": "1.2.6",
     "reason": ""
   }
 }

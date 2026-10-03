@@ -2,7 +2,7 @@
   "version": "1.2.5",
   "min_version": "1.2.5",
   "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.5/sein-base-1.2.5.jar",
-  "changelog": "Tarkov/Tetris tarzı özel ızgara envanter sistemi, sırt çantası/yelek/kıyafet cepleri, sandık/yer panelleri, ağırlık mekaniği, /giveitem komutu ve TAB tuş ataması.",
+  "changelog": "OpenGL thread ve istemci açılış crash düzeltmesi ile Tarkov Envanter Sistemi.",
   "mandatory": true,
   "shutdown": {
     "active": false,

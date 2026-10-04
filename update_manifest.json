@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
-  "min_version": "1.2.7",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.7/sein-base-1.2.7.jar",
-  "changelog": "Tarkov Envanter v1.2.7: Sandik/Konteyner Yonlendirmesi, Minecraft Event Interceptor, TAB ile Ac/Kapa, Karakter Govde Donme Merkezi, Canta Icerik Saklama, Canta Icinde Canta Yasagi, Dinamik Yukseklik ve Ekrana Sigdirilmis Duzen.",
+  "version": "1.2.8",
+  "min_version": "1.2.8",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.8/sein-base-1.2.8.jar",
+  "changelog": "Tarkov Envanter Sistemi v1.2.8: Gövde origin 3D rotasyon pivot düzeltmesi, Çanta/Yelek çıkarma ve slot sürükleme desteği, TAB ile açma/kapama düzeltmesi, R tuşu eşya döndürme düzeltmesi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.7",
+    "version": "1.2.8",
     "reason": ""
   }
 }

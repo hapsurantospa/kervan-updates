@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
-  "min_version": "1.2.6",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.6/sein-base-1.2.6.jar",
-  "changelog": "Tarkov Genisletilmis Envanter Sistemi: 3D Karakter Onizlemesi, Tum Konteynerler Ekranda, Canta/Yelek Takma Yuvalari, R Tusu ile Dondurme, Hover Tooltip ve Yere Atilan Esya Hologramlari.",
+  "version": "1.2.7",
+  "min_version": "1.2.7",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.7/sein-base-1.2.7.jar",
+  "changelog": "Tarkov Envanter v1.2.7: Sandik/Konteyner Yonlendirmesi, Minecraft Event Interceptor, TAB ile Ac/Kapa, Karakter Govde Donme Merkezi, Canta Icerik Saklama, Canta Icinde Canta Yasagi, Dinamik Yukseklik ve Ekrana Sigdirilmis Duzen.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.6",
+    "version": "1.2.7",
     "reason": ""
   }
 }

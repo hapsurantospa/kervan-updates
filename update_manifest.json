@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
-  "min_version": "1.2.8",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.8/sein-base-1.2.8.jar",
-  "changelog": "Tarkov Envanter Sistemi v1.2.8: Gövde origin 3D rotasyon pivot düzeltmesi, Çanta/Yelek çıkarma ve slot sürükleme desteği, TAB ile açma/kapama düzeltmesi, R tuşu eşya döndürme düzeltmesi.",
+  "version": "1.2.9",
+  "min_version": "1.2.9",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.2.9/sein-base-1.2.9.jar",
+  "changelog": "Tarkov Envanter Sistemi v1.2.9: 90 derece dikey eşya yazı rotasyonu, gövde merkezi 3D rotasyon pivot düzeltmesi, ikincil çanta/yelek ceplere ve envantere yerleştirme desteği, garantili çanta çıkarma ve swap mekaniği.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.2.8",
+    "version": "1.2.9",
     "reason": ""
   }
 }

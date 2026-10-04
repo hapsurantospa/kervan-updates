@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "min_version": "1.3.0",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.3.0/sein-base-1.3.0.jar",
-  "changelog": "Envanter yer hologramı, sadeleştirilmiş eşya kartları ve dik eksenli büyütülmüş 3D karakter önizlemesi.",
+  "version": "1.3.1",
+  "min_version": "1.3.1",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.3.1/sein-base-1.3.1.jar",
+  "changelog": "Saf bytecode event engelleme: TAB scoreboard, F1/F3 kisayollari ve sandik kontrolleri keybind bozmadan devre disi birakildi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.3.0",
+    "version": "1.3.1",
     "reason": ""
   }
 }

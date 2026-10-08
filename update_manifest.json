@@ -1,8 +1,8 @@
 {
-  "version": "1.4.5",
-  "min_version": "1.4.5",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.5/sein-base-1.4.5.jar",
-  "changelog": "v1.4.5: Visual-physical ocean wave synchronization, GPU shader uniforms lockstep with OceanWaveEngine",
+  "version": "1.4.6",
+  "min_version": "1.4.6",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.6/sein-base-1.4.6.jar",
+  "changelog": "v1.4.6: Underwater water surface visibility fix via abs(Normal.y) > 0.5, GPU SIMD vec4 vectorization, and cached uniform optimizations",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.4.5",
+    "version": "1.4.6",
     "reason": ""
   }
 }

@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
-  "min_version": "1.4.3",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.3/sein-base-1.4.3.jar",
-  "changelog": "Fizikli Deniz v1.4.3: Istemci tarafi 60 FPS dalga yuzme/batma hareketi, 3D su yuzey tespiti, genisletilmis dalga genlikleri ve /oceandebug istemci hata ayiklama guncellemesi.",
+  "version": "1.4.4",
+  "min_version": "1.4.4",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.4/sein-base-1.4.4.jar",
+  "changelog": "Fizikli Deniz v1.4.4: /oceanwave <0.0-50.0> dinamik dalga seviye ayar komutu, guclendirilmis tekne/blok egilme ve yatay suruklenme torku, oyuncu dalga fizigi devre disi.",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.4.3",
+    "version": "1.4.4",
     "reason": ""
   }
 }

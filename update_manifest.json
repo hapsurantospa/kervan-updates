@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "min_version": "1.4.1",
-  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.1/sein-base-1.4.1.jar",
-  "changelog": "Wavy water surface anchor and Sable physical buoyancy catapult fix",
+  "version": "1.4.2",
+  "min_version": "1.4.2",
+  "download_url": "https://github.com/hapsurantospa/kervan-updates/releases/download/v1.4.2/sein-base-1.4.2.jar",
+  "changelog": "Surface wave bobbing, surge drift and underwater orbital current dynamics",
   "mandatory": true,
   "shutdown": {
     "active": false,
@@ -11,7 +11,7 @@
   "protocol": {
     "active": false,
     "countdown": 20,
-    "version": "1.4.1",
+    "version": "1.4.2",
     "reason": ""
   }
 }
